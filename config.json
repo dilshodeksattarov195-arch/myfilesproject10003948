@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterppdate",
+        "uuid": 908040,
+        "checksum": "c6gf"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
